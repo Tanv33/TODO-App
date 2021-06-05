@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+button {
+    margin: 1px;
+    padding: 6px 10px;
+    border: 1px solid;
+    color: teal;
+    background-color: whitesmoke;
+}
+
+button:hover {
+    background-color: teal;
+    color: whitesmoke;
+}
+
+#mainDiv {
+    width: auto;
+    height: auto;
+}
+
+#firstDiv {
+    background-color: royalblue;
+    padding: 30px 40px;
+    color: white;
+    text-align: center;
+}
+
+#secondDiv {
+    width: auto;
+    height: auto;
+}
+
+ul li:nth-child(odd) {
+    background: #f9f9f9;
+    margin: 10px;
+    padding: 1px;
+}
+
+ul li:hover {
+    background: rgb(206, 204, 204);
+    margin: 10px;
+    padding: 1px;
+}
+
+input {
+    border: none;
+    padding: 6px 18px;
+    font-size: 14px;
+}
+
+li {
+    margin: 10px;
+    padding: 1px;
+}
